@@ -1,0 +1,8 @@
+sources:
+  - name: "dbt_example"    #any name
+    database: "DBTEX"
+    schema: "dbt_example_schema"
+    tables:
+      - name: "emp_ex" # snowflake table name
+      - name: "emp_modelex"
+      
