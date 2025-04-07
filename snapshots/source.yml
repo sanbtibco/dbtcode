@@ -5,4 +5,5 @@ sources:
     tables:
       - name: "emp_ex" # snowflake table name
       - name: "emp_modelex"
+      - name: "sales"
       

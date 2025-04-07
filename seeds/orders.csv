@@ -1,5 +1,5 @@
-orderid,ordername,amnt
-1,fruits,100
-2,groceseries,400
-3,chocs,400
-4,books,800
+orderid,ordername,amnt,status
+1,fruits,100,ok
+2,groceseries,400,ok
+3,chocs,400,ok
+4,books,800,ok
